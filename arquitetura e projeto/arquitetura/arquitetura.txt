@@ -1,0 +1,20 @@
+plausível a mudanças antes da codificação.
+
+
+ciclo de vida do projeto:
+Cascata
+
+as entidades serão elementos que irão compor os cards do produto(classe):
+
+imagem,descrição,produto,
+preço e etc..
+
+
+as regras de negócio serão uma interface(I) que será implementada no interior da classe produto(entidade produto).
+
+EX: 
+preço em real x
+preço em dólar y
+
+
+o repositório será responsável por pesistir os dados das entidades no  banco de dados e retornar estes dados para as classes superiores até se estabelecer a comunicação com o sistema frontend.
