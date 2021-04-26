@@ -1,0 +1,80 @@
+projeto,arquitetura e design:
+
+Draw.io
+-------
+https://app.diagrams.net/
+
+
+design - ferramentas gratuitas para criação online
+-----------------------------------
+https://blog.revendakwg.com.br/destaque/8-ferramentas-gratuitas-para-criacao-online/
+
+
+Modelos de Sites Modernos Para Negócio
+----------------------------------
+https://www.jivochat.com.br/blog/ecommerce/modelos-de-sites.html
+
+
+material UI
+-----------
+https://material-ui.com/pt/
+
+
+tema - sistema frontend(ADM)(React)
+----------------------------
+https://www.creative-tim.com/product/material-dashboard-react?partner=104080
+
+
+tema - sistema frontend(store)(Vue)
+------------------------------
+https://envothemes.com/envo-storefront/shop/
+
+
+Catálogo dos Padrões de Projeto
+-------------------------------
+https://refactoring.guru/pt-br/design-patterns/catalog
+
+
+documentação - microsoft - word
+-------------------------------
+
+
+desenvolvimento:
+repositórios
+------------
+<>Git
+<>Github
+
+
+programação
+-----------
+<>(Eclipse)Spring-Tools
+<>Visual-Studio-Code
+<>NotePad++
+
+
+database
+--------
+<>postgresSql
+
+
+
+tecnologias
+-----------
+<>React.js
+<>Vue.js
+<>Ecma6+,node.js
+<>Java,jpa,hibernate,maven
+<>psql
+
+
+devOps/infra:
+
+heroku
+------
+https://www.heroku.com/
+
+
+netlify
+-------
+https://www.netlify.com/

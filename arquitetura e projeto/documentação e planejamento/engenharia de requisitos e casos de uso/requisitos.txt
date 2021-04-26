@@ -1,0 +1,18 @@
+requisitos do sistema
+
+(rf - requisitos funcionais)
+(rnf - requisitos não funcionais)
+
+rf00 - cadastro de produtos
+rf01 - gerenciamento de card de produtos
+  rf001 - cadastro e gerenciamento de imagens do produto 
+  rf002 - cadastro e gerenciamento de descrição do produto 
+  rf003 - cadastro e gerenciamento de preços do produto 	
+rf02 - cadastro e gerenciamento de estoque do produto
+  rf001 - cadastro e gerenciamento de quantidades do produto em estoque   
+rf03 - exclusão de produto
+rf04 - atualização/alteração de dados do produto
+rf05 - captura de horário em tempo de CRUD 
+
+rnf01 - O sistema deverá rodar em Web, sendo compatível com o Mozilla, Chrome e
+Opera
