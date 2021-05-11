@@ -5,6 +5,11 @@ Draw.io
 https://app.diagrams.net/
 
 
+figma
+-----
+https://www.figma.com
+
+
 design - ferramentas gratuitas para criação online
 -----------------------------------
 https://blog.revendakwg.com.br/destaque/8-ferramentas-gratuitas-para-criacao-online/
@@ -18,16 +23,29 @@ https://www.jivochat.com.br/blog/ecommerce/modelos-de-sites.html
 material UI
 -----------
 https://material-ui.com/pt/
+https://reactnativepaper.com/
 
-
+template modelo para inspiração:
 tema - sistema frontend(ADM)(React)
 ----------------------------
 https://www.creative-tim.com/product/material-dashboard-react?partner=104080
 
-
+template modelo para inspiração:
 tema - sistema frontend(store)(Vue)
 ------------------------------
 https://envothemes.com/envo-storefront/shop/
+
+
+template modelo para inspiração:
+tema - sistema frontend(store)(react-native)
+------------------------------
+https://code.tutsplus.com/articles/best-ecommerce-android-app-templates--cms-31887
+
+
+template modelo para inspiração:
+tema - sistema frontend(store-checkout-simulator)(Vue)
+------------------------------
+https://www.rocketwp.com.br/10-modelos-de-checkouts-em-html-e-css-gratis/
 
 
 Catálogo dos Padrões de Projeto
