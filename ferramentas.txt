@@ -37,7 +37,7 @@ https://envothemes.com/envo-storefront/shop/
 
 
 template modelo para inspiração:
-tema - sistema frontend(store)(react-native)
+tema - sistema frontend(store-mobile)(react-native)
 ------------------------------
 https://code.tutsplus.com/articles/best-ecommerce-android-app-templates--cms-31887
 
