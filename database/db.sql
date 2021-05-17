@@ -51,8 +51,10 @@ INSERT INTO produtos VALUES(2,'samsumg galaxy j7 prime','https://localhost:8080/
 
 SELECT * FROM produtos;
 
+CREATE VIEW vconsulta AS 
 SELECT c.nome_titular, p.nome_produto, p.preco
 FROM clientes c
 INNER JOIN produtos p
-ON cliente_id = clienteid  ;
+ON cliente_id = clienteid;
 
+SELECT * FROM vconsulta;
